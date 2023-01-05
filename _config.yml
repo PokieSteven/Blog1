@@ -1,7 +1,7 @@
 #Jekyll configuration
 name: Saw Steven
 description: 
-url: "https://W22-23---IBA-Acc"
+url: "https://W22-23---IBA-Acc.github.io"
 markdown: kramdown
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
