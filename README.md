@@ -71,3 +71,20 @@ Finally, the strong effort and support of the government, and the cooperation of
 
 The future looks bright in the field of medicine, and I hope that all of these could come to fruition for the better of the health of our humankind, and not for the worse to come.
 
+## Sources and References
+- ASHG. (2019, January 1). Medical Genetics. ASHG. https://www.ashg.org/discover-genetics/medical-genetics/#:~:text=Medical%20genetics%20is%20any%20application
+
+- Bergman, M. T. (2019, January 9). Harvard researchers share views on future, ethics of gene editing. Harvard Gazette. https://news.harvard.edu/gazette/story/2019/01/perspectives-on-gene-editing/
+
+- Bombard, Y., & Hayeems, R. Z. (2020). How digital tools can advance quality and equity in genomic medicine. Nature Reviews Genetics, 21(9), 505–506. https://doi.org/10.1038/s41576-020-0260-x
+
+- Khandelwal, S. (2021, March 22). The Future of Genetic Engineering. Youth Medical Journal. https://youthmedicaljournal.org/2021/03/21/the-future-of-genetic-engineering/
+NIH. (2022, March 24). Genetic Therapies - What Are Genetic Therapies? | NHLBI, NIH. Www.nhlbi.nih.gov. https://www.nhlbi.nih.gov/health/genetic-therapies
+
+- Raposo, V. L. (2019). The First Chinese Edited Babies: A Leap of Faith in Science. JBRA Assisted Reproduction, 23(3). https://doi.org/10.5935/1518-0557.20190042
+
+- TAMURA, R., & TODA, M. (2020). Historic Overview of Genetic Engineering Technologies for Human Gene Therapy. Neurologia Medico-Chirurgica, 60(10), 483–491. https://doi.org/10.2176/nmc.ra.2020-0049
+
+- Tecklenburg, J. (2021). Telemedicine – chances and challenges for medical genetics in Germany. Medizinische Genetik, 33(1), 53–59. https://doi.org/10.1515/medgen-2021-2057
+
+- Wetterstrand, K. A. (2023, January 4). Recombinant DNA Technology. Genome.gov; NIH. https://www.genome.gov/genetics-glossary/Recombinant-DNA-Technology#:~:text=Recombinant%20DNA%20technology%20is%20an
