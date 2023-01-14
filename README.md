@@ -85,7 +85,7 @@ https://doi.org/10.1038/s41576-020-0260-x
 https://youthmedicaljournal.org/2021/03/21/the-future-of-genetic-engineering/
 
 - NIH. (2022, March 24). Genetic Therapies - What Are Genetic Therapies? | NHLBI, NIH. 
-Www.nhlbi.nih.gov. https://www.nhlbi.nih.gov/health/genetic-therapies
+www.nhlbi.nih.gov. https://www.nhlbi.nih.gov/health/genetic-therapies
 
 - Raposo, V. L. (2019). The First Chinese Edited Babies: A Leap of Faith in Science. JBRA Assisted Reproduction, 23(3). 
 https://doi.org/10.5935/1518-0557.20190042
