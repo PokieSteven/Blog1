@@ -10,6 +10,8 @@ This is done by genetic engineering through the usage of a process of recombinan
 
 <img src="Figure 1.jpg" alt="Figure 1 Description of recombinant DNA technology 
 K. A. Wetterstrand, Recombinant DNA Technology, Genome.gov, Jan. 04, 2023. https://www.genome.gov/genetics-glossary/Recombinant-DNA-Technology#:~:text=Recombinant%20DNA%20technology%20is%20an" />
+  **Figure 1 Description of recombinant DNA technology,
+  Source: _K. A. Wetterstrand_, Recombinant DNA Technology, Genome.gov, Jan. 04, 2023. https://www.genome.gov/genetics-glossary/Recombinant-DNA-Technology#:~:text=Recombinant%20DNA%20technology%20is%20an"**
 
 ## Intro
 
