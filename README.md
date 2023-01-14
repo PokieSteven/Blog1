@@ -8,10 +8,8 @@ When one talks about genetic medicine; this sounds like it is something out of s
 
 This is done by genetic engineering through the usage of a process of recombinant DNA technology called CRISPR by altering the genetic makeup of an organism. [Recombinant DNA technology](https://youthmedicaljournal.org/2021/03/21/the-future-of-genetic-engineering/) utilises enzymes in a lab to manipulate the DNA of interest; a gene of interest from an organism is integrated into another organism such as bacteria or yeasts as a host. This then creates a recombinant DNA from 2 species, the combining process is called DNA splicing. The resulting hosting organism will replicate the DNA with its own, producing the desired protein. An example of this is the production of insulin to treat diabetes.
 
-[Figure 1 Description of recombinant DNA technology 
-K. A. Wetterstrand, “Recombinant DNA Technology,” Genome.gov, Jan. 04, 2023. https://www.genome.gov/genetics-glossary/Recombinant-DNA-Technology#:~:text=Recombinant%20DNA%20technology%20is%20an
-]<img src="Figure 1.jpg" alt="Figure 1 Description of recombinant DNA technology 
-K. A. Wetterstrand, Recombinant DNA Technology, Genome.gov, Jan. 04, 2023. https://www.genome.gov/genetics-glossary/Recombinant-DNA-Technology#:~:text=Recombinant%20DNA%20technology%20is%20an"  >
+<img src="Figure 1.jpg" alt="Figure 1 Description of recombinant DNA technology 
+K. A. Wetterstrand, Recombinant DNA Technology, Genome.gov, Jan. 04, 2023. https://www.genome.gov/genetics-glossary/Recombinant-DNA-Technology#:~:text=Recombinant%20DNA%20technology%20is%20an" />
 
 ## Intro
 
