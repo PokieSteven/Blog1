@@ -3,12 +3,17 @@
 
 @import "{{ site.theme }}";
 .page-header {
-    background-image: url("https://github.com/PokieSteven/Blog1/blob/main/cover.jpg") no-repeat 15px center, -moz-linear-gradient(center top , #FFFFFF, #DDDDDD);
     color: #000;
     text-align: center;
     background-color: #156399;
     background-image: linear-gradient(220deg, #1f84e9, #6c00ac);
 }
+
+
+.header-image {
+background-image: url(“https://github.com/PokieSteven/Blog1/blob/main/cover.jpg”);
+}
+
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
     margin-top: 2rem;
     margin-bottom: 1rem;
