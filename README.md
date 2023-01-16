@@ -21,8 +21,6 @@ With a similar concept, gene therapies are performed to treat genetic disorders 
 
 ## Slight history of genetic engineering and the potential future
 
-<iframe width="560" height="315" src="https://youtu.be/watch?v=jAhjPd4uNFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 This all might sound scary. Yes, it is, but it has been in practice for decades, since the early 1960s. Here is a quick summary of the history of GT:
 <img src="Figure 2.png">
 **Figure 2 History of gene therapy, [Source:  TAMURA, R., & TODA, M. (2020). Historic Overview of Genetic Engineering Technologies for Human Gene Therapy. _Neurologia Medico-Chirurgica, 60_(10), 483–491. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7555159/)**
@@ -46,6 +44,7 @@ First, there is no real answer for this one yet. One could only hope that a good
 
 Moreover, if the circumstances have led to favour the practice of germline gene editing, I believe that this will become a huge field of medicine and research. Because of the potential to prevent a child with genetic disorders, or diseases before birth. This would save both the government and the parents a lot of money and resources. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jAhjPd4uNFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## But how does Information Technology come into play?
 
