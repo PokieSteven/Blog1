@@ -21,7 +21,7 @@ With a similar concept, gene therapies are performed to treat genetic disorders 
 
 ## Slight history of genetic engineering and the potential future
 
-![[Genetic Engineering Will Change Everything Forever – CRISPR](https://youtu.be/watch?v=jAhjPd4uNFY)](https://youtu.be/watch?v=jAhjPd4uNFY)
+<iframe width="560" height="315" src="https://youtu.be/watch?v=jAhjPd4uNFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 This all might sound scary. Yes, it is, but it has been in practice for decades, since the early 1960s. Here is a quick summary of the history of GT:
 <img src="Figure 2.png">
