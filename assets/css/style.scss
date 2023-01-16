@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 .page-header {
-    background-image: url("https://github.com/PokieSteven/Blog1/blob/main/cover.jpg")
+    background-image: url("https://github.com/PokieSteven/Blog1/blob/main/cover.jpg") no-repeat 15px center;
     color: #000;
     text-align: center;
     background-color: #156399;
