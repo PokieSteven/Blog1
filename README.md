@@ -42,7 +42,9 @@ Graphic by _Judy Blomquist_/Harvard Staff,
 
 First, there is no real answer for this one yet. One could only hope that a good turn will come, depending on the outcome of He Jiankui’s “experimental twins”. That is to say that if the outcome is good for them, the scientific community will start changing their views on germline gene editing despite the risks. Pretty much like IVF, which people found unacceptable at first, are now accepting IVF because of its success and the increasing rate of infertility in the modern society.
 
-Moreover, if the circumstances have led to favour the practice of germline gene editing, I believe that this will become a huge field of medicine and research. Because of the potential to prevent a child with genetic disorders, or diseases before birth. This would save both the government and the parents a lot of money and resources. 
+Moreover, if the circumstances have led to favour the practice of germline gene editing, I believe that this will become a huge field of medicine and research. Because of the potential to prevent a child with genetic disorders, or diseases before birth. This would save both the government and the parents a lot of money and resources.
+
+But in this video on YouTube about "Genetic Engineering Will Change Everything Forever – CRISPR" by Kurzgesagt - In a Nutshell covers a variety of possibilities that genetic engineering could result in the future:
 
 <iframe width="560" height="315" src="https://youtube.com/embed/jAhjPd4uNFY/" title="YouTube video player" frameborder="0" class="ytvideo" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
