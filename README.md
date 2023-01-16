@@ -44,7 +44,7 @@ First, there is no real answer for this one yet. One could only hope that a good
 
 Moreover, if the circumstances have led to favour the practice of germline gene editing, I believe that this will become a huge field of medicine and research. Because of the potential to prevent a child with genetic disorders, or diseases before birth. This would save both the government and the parents a lot of money and resources. 
 
-<iframe width="560" height="315" src="https://youtu.be/embed/jAhjPd4uNFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/jAhjPd4uNFY/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## But how does Information Technology come into play?
 
