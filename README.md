@@ -21,6 +21,8 @@ With a similar concept, gene therapies are performed to treat genetic disorders 
 
 ## Slight history of genetic engineering and the potential future
 
+https://www.youtube.com/watch?v=jAhjPd4uNFY
+
 This all might sound scary. Yes, it is, but it has been in practice for decades, since the early 1960s. Here is a quick summary of the history of GT:
 <img src="Figure 2.png">
 **Figure 2 History of gene therapy, [Source:  TAMURA, R., & TODA, M. (2020). Historic Overview of Genetic Engineering Technologies for Human Gene Therapy. _Neurologia Medico-Chirurgica, 60_(10), 483–491. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7555159/)**
@@ -98,3 +100,5 @@ https://doi.org/10.1515/medgen-2021-2057
 
 - Wetterstrand, K. A. (2023, January 4). Recombinant DNA Technology. Genome.gov; NIH. 
 https://www.genome.gov/genetics-glossary/Recombinant-DNA-Technology#:~:text=Recombinant%20DNA%20technology%20is%20an
+
+- Kurzgesagt – In a Nutshell. (2016). Genetic Engineering Will Change Everything Forever – CRISPR [YouTube Video]. In YouTube. https://www.youtube.com/watch?v=jAhjPd4uNFY
