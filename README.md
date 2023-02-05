@@ -21,7 +21,7 @@ With a similar concept, gene therapies are performed to treat genetic disorders 
 
 ## Slight history of genetic engineering and the potential future
 
-This all might sound scary. Yes, it is, but it has been in practice for decades, since the early 1960s. Here is a quick summary of the history of GT:
+Here is a quick summary of the history of GT:
 <img src="Figure 2.png">
 
 <img src="Figure 3.png"> **Figure 2 and Figure 3 History of gene therapy , [Source:TAMURA, R., & TODA, M. (2020). Historic Overview of Genetic Engineering Technologies for Human Gene Therapy. _Neurologia Medico-Chirurgica, 60_(10), 483–491. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7555159/)**
@@ -29,7 +29,7 @@ This all might sound scary. Yes, it is, but it has been in practice for decades,
 Why does history matter? As we have seen, genetic-related treatments are carefully monitored and legalised. Because there are potential dangers within the works of genetic manipulation. We could create a so-called “super-pathogen” or “disabled organism” from the result of it, and eventually doom us all by accidentally creating a bioweapon from sci-fi movies. Because of this, many ethical issues arise.
 
 In 2019, a scientist in China created genetically altered twins, by altering the genes of the embryos. [Vera Lucia Raposo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724388/#r16) claims that,
-> “Their birth was the result of an ‘experiment' (presently it can only be called that) conducted by He Jiankui with couples in which the males were HIV carriers. Using CRISPR technology to immunise the babies against the HIV virus, He Jiankui managed to disable the CCR5 gene that enables the HIV infection (although he still did not present complete evidence of this achievement). Furthermore, in spite of the alleged reason for the genetic intervention related with the prevention of HIV, the scientific community also knows that the CCR5 gene is related with major brain functions. He Jiankui might have done some kind of human enhancement by created two especially intelligent human beings, with better memory and higher IQ.” 
+> “In spite of the alleged reason for the genetic intervention related with the prevention of HIV, the scientific community also knows that the CCR5 gene is related with major brain functions. He Jiankui might have done some kind of human enhancement by created two especially intelligent human beings, with better memory and higher IQ.” 
 
 Which begs many questions, such as: is it ethical at all, what will be the consequences of the twins if an error that leads to disability is made, and what if he just created a lineage of superhumans unintentionally?  Because the genetic alteration he has done is not quite what we are practising today, [somatic gene editing, but instead germline gene editing](https://news.harvard.edu/gazette/story/2019/01/perspectives-on-gene-editing/). This means it has an impact not only on the person whom he had edited, but possibly they may pass on the edited genes to their descendants.
 
