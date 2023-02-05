@@ -67,11 +67,11 @@ This also means that the utilisation of telemedicine will be required. For this 
 
 ## Conclusion
 
-If germline editing does get approved, ethical issues will surely rise; business institutions will try to take advantage of the new advancement by selling "designer babies" and could create genetic poverty gap. This could also lead to governments creating an army of “perfect humans”. Nevertheless, only time could tell what would happen and it will strongly depend on the people of practice. Even so, all this would still be in the experimentation phases after decades of this blog being posted.
+If germline editing does get approved, ethical issues will surely arise; business institutions will try to take advantage of the new advancement by selling "designer babies" and could create genetic poverty gap. This could also lead to governments creating an army of “perfect humans”. Nevertheless, only time could tell what would happen and it will strongly depend on the people of practice. Even so, all this would still be in the experimentation phases after decades of this blog being posted.
 
 Finally, the strong effort and support of the government, and the cooperation of all related professionals will be required if the operation is to succeed for all the obvious reasons.
 
-The future technology of medicine is quite powerful, and it could be used in many ways. Hence, it would be greatly considered through debates and approvals before the actualisation of it. And in my opininon, I believe that we need to put a leap of faith in humanity and hope that this technology would be used for benevolence rather than for self-gain.
+The future technology of medicine is quite powerful, and it could be used in many ways. Hence, it would be greatly considered through debates and approvals before the actualisation of it. And in my opinion, I believe that we need to put a leap of faith in humanity and hope that this technology will be used for benevolence rather than for self-gain.
 
 ## Sources and References
 - ASHG. (2019, January 1). Medical Genetics. ASHG. 
