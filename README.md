@@ -23,9 +23,8 @@ With a similar concept, gene therapies are performed to treat genetic disorders 
 
 This all might sound scary. Yes, it is, but it has been in practice for decades, since the early 1960s. Here is a quick summary of the history of GT:
 <img src="Figure 2.png">
-**Figure 2 History of gene therapy, [Source:  TAMURA, R., & TODA, M. (2020). Historic Overview of Genetic Engineering Technologies for Human Gene Therapy. _Neurologia Medico-Chirurgica, 60_(10), 483–491. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7555159/)**
 
-<img src="Figure 3.png"> **Figure 3 History of gene therapy 2, [Source:TAMURA, R., & TODA, M. (2020). Historic Overview of Genetic Engineering Technologies for Human Gene Therapy. _Neurologia Medico-Chirurgica, 60_(10), 483–491. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7555159/)**
+<img src="Figure 3.png"> **Figure 2 and Figure 3 History of gene therapy , [Source:TAMURA, R., & TODA, M. (2020). Historic Overview of Genetic Engineering Technologies for Human Gene Therapy. _Neurologia Medico-Chirurgica, 60_(10), 483–491. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7555159/)**
 
 Why does history matter? As we have seen, genetic-related treatments are carefully monitored and legalised. Because there are potential dangers within the works of genetic manipulation. We could create a so-called “super-pathogen” or “disabled organism” from the result of it, and eventually doom us all by accidentally creating a bioweapon from sci-fi movies. Because of this, many ethical issues arise.
 
