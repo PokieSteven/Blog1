@@ -6,7 +6,7 @@ Written by: _Saw Steven_
 
 # **The Future of Medical Genetics and the Importance of Digital Health**
 
-When one talks about genetic medicine; this sounds like it is something out of science fiction. But as today, we can do all these bizarre things. Maybe not everything out of the movies, but a fraction of it. Now the idea of medical genetics is that we apply [the genetic principles](https://www.ashg.org/discover-genetics/medical-genetics/#:~:text=Medical%20genetics%20is%20any%20application)  to medical practice, which includes studies of inheritance, mapping disease genes, diagnosis and treatment, and genetic counselling. But how is this tied to digital health, and could this be the future of medicine?
+When one talks about genetic medicine; this sounds like it is something out of science fiction. But as today, we can do a fraction of these bizarre things. Now the idea of medical genetics is that we apply [the genetic principles](https://www.ashg.org/discover-genetics/medical-genetics/#:~:text=Medical%20genetics%20is%20any%20application)  to medical practice, which includes studies of inheritance, mapping disease genes, diagnosis and treatment, and genetic counselling. But how is this tied to digital health, and could this be the future of medicine?
 
 ## **How does this work?**
 
