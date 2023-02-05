@@ -10,21 +10,21 @@ When one talks about genetic medicine; this sounds like it is something out of s
 
 ## **How does this work?**
 
-This is done by genetic engineering through the usage of a process of recombinant DNA technology called CRISPR by altering the genetic makeup of an organism. [Recombinant DNA technology](https://youthmedicaljournal.org/2021/03/21/the-future-of-genetic-engineering/) utilises enzymes in a lab to manipulate the DNA of interest; a gene of interest from an organism is integrated into another organism such as bacteria or yeasts as a host. This then creates a recombinant DNA from 2 species. The resulting hosting organism will replicate the DNA with its own, producing the desired protein. An example of this is the production of insulin to treat diabetes.
+This is done by genetic engineering through the usage of a process of [recombinant DNA technology](https://youthmedicaljournal.org/2021/03/21/the-future-of-genetic-engineering/) called CRISPR by altering the genetic makeup of an organism. An example of this is the production of insulin to treat diabetes.
 
 <img src="Figure 1.jpg" alt="Figure 1 Description of recombinant DNA technology 
 K. A. Wetterstrand, Recombinant DNA Technology, Genome.gov, Jan. 04, 2023. https://www.genome.gov/genetics-glossary/Recombinant-DNA-Technology#:~:text=Recombinant%20DNA%20technology%20is%20an" />
   **Figure 1 Description of recombinant DNA technology,
   [Source: Wetterstrand, K. A. (2023, January 4). _Recombinant DNA Technology_. Genome.gov; NIH. ](https://www.genome.gov/genetics-glossary/Recombinant-DNA-Technology#:~:text=Recombinant%20DNA%20technology%20is%20an)**
 
-With a similar concept, gene therapies are performed to treat genetic disorders using [genome editing](https://www.nhlbi.nih.gov/health/genetic-therapies). It is a newer approach that allows precise correction or other targeted changes to DNA in cells to restore a cell’s function. This process allows direct modification of the cells in the body, or the cells will be collected and treated outside of the body and then returned to the body. An example of this could be the treatment of cancer where the immune cells in the body are retrieved, then it is modified to attack the cancer cells. And then they are reintroduced into the same body.
+With a similar concept, gene therapies are performed to treat genetic disorders using [genome editing](https://www.nhlbi.nih.gov/health/genetic-therapies). It is a newer approach that allows precise correction or other targeted changes to DNA in cells to restore a cell’s function. This process allows direct modification of the cells in the body, or the cells will be collected and treated outside of the body and then returned to the body. An example of this is the treatment of cancer where the immune cells in the body are retrieved to modify the cancer cells, then they are reintroduced into the same body.
 
 ## Slight history of genetic engineering and the potential future
 
 Here is a quick summary of the history of GT:
 <img src="Figure 2.png">
 
-<img src="Figure 3.png"> **Figure 2 and Figure 3 History of gene therapy , [Source:TAMURA, R., & TODA, M. (2020). Historic Overview of Genetic Engineering Technologies for Human Gene Therapy. _Neurologia Medico-Chirurgica, 60_(10), 483–491. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7555159/)**
+<img src="Figure 3.png"> **Figure 2, Figure 3 History of gene therapy , [Source:TAMURA, R., & TODA, M. (2020). Historic Overview of Genetic Engineering Technologies for Human Gene Therapy. _Neurologia Medico-Chirurgica, 60_(10), 483–491. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7555159/)**
 
 Why does history matter? As we have seen, genetic-related treatments are carefully monitored and legalised. Because there are potential dangers within the works of genetic manipulation as such, the creation of new diseases or an organism of complete different species.
 
