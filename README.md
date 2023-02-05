@@ -26,7 +26,7 @@ Here is a quick summary of the history of GT:
 
 <img src="Figure 3.png"> **Figure 3 History of gene therapy , [Source:TAMURA, R., & TODA, M. (2020). Historic Overview of Genetic Engineering Technologies for Human Gene Therapy. _Neurologia Medico-Chirurgica, 60_(10), 483–491. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7555159/)**
 
-Why does history matter? As we have seen, genetic-related treatments are carefully monitored and legalised. Because there are potential dangers within the works of genetic manipulation. Because there are potential dangers within the works of genetic manipulation as such, the creation of new diseases or an organism of complete different species.
+Why does history matter? As we have seen, genetic-related treatments are carefully monitored and legalised. Because there are potential dangers within the works of genetic manipulation. Because there are potential dangers within the works of genetic manipulation, such as the creation of new diseases or an organism of completely different species.
 
 In 2019, a scientist in China created genetically altered twins, by altering the genes of the embryos. [Vera Lucia Raposo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724388/#r16), a law expert on science, claims that,
 > “In spite of the alleged reason for the genetic intervention related with the prevention of HIV, the scientific community also knows that the CCR5 gene is related with major brain functions. He Jiankui might have done some kind of human enhancement by created two especially intelligent human beings, with better memory and higher IQ.” 
@@ -39,9 +39,9 @@ Graphic by _Judy Blomquist_/Harvard Staff,
 
 ## How is this significant and how will this affect the future of medical genetics?
 
-First, there is no real answer for this question yet. It will all depend on the outcome of He Jiankui’s “experimental twins” and the perception of the scientific community. That is to say that if the outcome is good for them, the scientific community will start changing their views on germline gene editing despite the risks. Pretty much like IVF, which people found unacceptable at first, are now accepting IVF because of its success and the increasing rate of infertility in the modern society.
+First, there is no real answer to this question yet. It will all depend on the outcome of He Jiankui’s “experimental twins” and the perception of the scientific community. That is to say that if the outcome is good for them, the scientific community will start changing their views on germline gene editing despite the risks. Pretty much like IVF, which people found unacceptable at first, are now accepting IVF because of its success and the increasing rate of infertility in modern society.
 
-Moreover, if the circumstances have led to favour the practice of germline gene editing, I believe that this could save a lot of money and resources for the government and parents. Because of the potential to prevent a child to be born with genetic diseases.
+Moreover, if the circumstances have led to favour the practice of germline gene editing, I believe that this could save a lot of money and resources for the government and parents. Because of the potential to prevent a child from being born with genetic diseases.
 
 But in this video on YouTube about "Genetic Engineering Will Change Everything Forever – CRISPR" by Kurzgesagt - In a Nutshell covers a variety of possibilities that genetic engineering could result in the future:
 
@@ -51,7 +51,7 @@ But in this video on YouTube about "Genetic Engineering Will Change Everything F
 
 As of now, there are a lot of genome databases that are available. And it will only continue to grow over time. This means that more IT specialists will increase over the years. Additionally, because precision is required within this field of work due to the nature of genetics, high computational analytics will be required. And so, data scientists, especially with a background in biology would have increase in demand. Hence, the pursuit in this field of careers would be easier and have better recognition in the future.
 
-With data science, analysis of genetic data are so much faster, but with the addition of the advancement of AIs, the patterns of genetic mutation and their phenotypes could be predicted with higher accuracy with ease.
+With data science, analysis of genetic data is so much faster, but with the addition of the advancement of AIs, the patterns of genetic mutation and their phenotypes could be predicted with higher accuracy with ease.
 
 <img src="Figure 5.webp"> **Figure 5 Digital care tools in genomic medicine a. The genetics service pathway will be delivered digitally, and its applications are under development. b. Horizon scans that are in existing digital care tools are used for each phase of the genetic service pathway. 
 Source: [Bombard, Y., & Hayeems, R. Z. (2020). How digital tools can advance quality and equity in genomic medicine. _Nature Reviews Genetics, 21_(9), 505–506.](https://www.nature.com/articles/s41576-020-0260-x)**
@@ -71,7 +71,7 @@ If germline editing does get approved, ethical issues will surely rise; business
 
 Finally, the strong effort and support of the government, and the cooperation of all related professionals will be required if the operation is to succeed for all the obvious reasons.
 
-The future technology of medicine is quiet powerful and it could be used in many ways. Hence, it would be greatly considered through debates and approvals before the actualisation of it. And in my opininon, I believe that we need to put a leap of faith in the humanity and hope that this technology would be used for benevolence rather than for self-gain.
+The future technology of medicine is quite powerful, and it could be used in many ways. Hence, it would be greatly considered through debates and approvals before the actualisation of it. And in my opininon, I believe that we need to put a leap of faith in humanity and hope that this technology would be used for benevolence rather than for self-gain.
 
 ## Sources and References
 - ASHG. (2019, January 1). Medical Genetics. ASHG. 
