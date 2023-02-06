@@ -75,7 +75,7 @@ The future technology of medicine is quite powerful, and it could be used in man
 
 ## Sources and References
 - ASHG. (2019, January 1). Medical Genetics. ASHG. 
-https://www.ashg.org/discover-genetics/medical-genetics/#:~:text=Medical%20genetics%20is%20any%20application
+[https://www.ashg.org/discover-genetics/medical-genetics/#:~:text=Medical%20genetics%20is%20any%20application](https://www.ashg.org/discover-genetics/medical-genetics/#:~:text=Medical%20genetics%20is%20any%20application)
 
 - Bergman, M. T. (2019, January 9). Harvard researchers share views on future, ethics of gene editing. Harvard Gazette. 
 https://news.harvard.edu/gazette/story/2019/01/perspectives-on-gene-editing/
