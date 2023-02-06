@@ -1,4 +1,4 @@
----<img src="cover.jpg" >---
+
 
 Published date: _07<sup>th</sup> February 2023_
 
