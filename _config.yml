@@ -1,7 +1,7 @@
 #Jekyll configuration
 name: Dhinakar Saravanan
 title: Impact of COVID-19 on Emergence of Mental Health Issues in Germany – The Role of Digital Health Tracking Applications
-description 1: Blog post - Dhinakar Saravanan
+description: Blog post - Dhinakar Saravanan
 url: "https:///"
 markdown: kramdown
 remote_theme: pages-themes/cayman@v0.2.0
