@@ -17,7 +17,7 @@ K. A. Wetterstrand, Recombinant DNA Technology, Genome.gov, Jan. 04, 2023. https
   **Figure 1 Description of recombinant DNA technology,
   [Source: Wetterstrand, K. A. (2023, January 4). _Recombinant DNA Technology_. Genome.gov; NIH. ](https://www.genome.gov/genetics-glossary/Recombinant-DNA-Technology#:~:text=Recombinant%20DNA%20technology%20is%20an)**
 
-With a similar concept, gene therapies are performed to treat genetic disorders such as cystic fibrosis, thalassemia, haemophilia, and sickle cell anaemia using [genome editing](https://www.nhlbi.nih.gov/health/genetic-therapies). It is a newer approach that allows precise correction or other targeted changes to DNA in cells to restore a cell’s function. This process allows direct modification of the cells in the body, or the cells will be collected and treated outside of the body and then returned to the body. An example of this is the treatment of cancer where the immune cells in the body are retrieved to modify the cancer cells, then they are reintroduced into the same body.
+With a similar concept, gene therapies are performed to treat genetic disorders using [genome editing](https://www.nhlbi.nih.gov/health/genetic-therapies). It is a newer approach that allows precise correction or other targeted changes to DNA in cells to restore a cell’s function. This process allows direct modification of the cells in the body, or the cells will be collected and treated outside of the body and then returned to the body. An example of this is the treatment of cancer where the immune cells in the body are retrieved to modify the cancer cells, then they are reintroduced into the same body.
 
 ## Slight history of genetic engineering and the potential future
 
