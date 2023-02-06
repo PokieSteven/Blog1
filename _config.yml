@@ -1,7 +1,7 @@
 #Jekyll configuration
-name: Saw Steven
-title: The Future of Medical Genetics and the Importance of Digital Health
-description: GBAC Blog post - Steven 
-url: "https://PokieSteven.github.io/Blog1/"
+name: Dhinakar Saravanan
+title: Impact of COVID-19 on Emergence of Mental Health Issues in Germany – The Role of Digital Health Tracking Applications
+description: Blog post - Dhinakar Saravanan
+url: "https:///"
 markdown: kramdown
 remote_theme: pages-themes/cayman@v0.2.0
