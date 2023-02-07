@@ -41,5 +41,5 @@ In conclusion, the role of digital health solutions during the pandemic period h
 5.	Scott, B. K., Miller, G. T., Fonda, S. J., Yeaw, R. E., Gaudaen, J. C., Pavliscsak, H. H., Quinn, M. T., & Pamplin, J. C. (2020). Advanced Digital Health Technologies for COVID-19 and Future Emergencies. Telemedicine and E-Health, 26(10), 1226–1233. https://doi.org/10.1089/tmj.2020.0140
 6.	Schelhorn, I. (2021, September 7). Psychological Burden During the COVID-19 Pandemic in Germany. Frontiers. https://www.frontiersin.org/articles/10.3389/fpsyg.2021.640518/full
 7.	GTAI. (2020, May 4). Covid-19 – Creating Demand for Digital Health Applications. E-Health. https://www.gtai.de/en/invest/industries/healthcare/covid-19-creating-demand-for-digital-health-applications-245222
-8.	Democratizing Healthcare | Kaia Health US. (n.d.). Kaia Health. https://kaiahealth.com/
+8.	Democratizing Healthcare. Kaia Health US. (n.d.). Kaia Health. https://kaiahealth.com/
 9.	Selfapy (2023, January 4). Selfapy - Online-Kurse bei psychischen Störungen. https://www.selfapy.com/
