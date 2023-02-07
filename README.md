@@ -6,7 +6,6 @@ Written by: _Dhinakar Saravanan_
 
 ***Impact of COVID-19 on Emergence of Mental Health Issues in Germany – The Role of Digital Health Tracking Applications***
 
-
 Impact of COVID-19 on Emergence of Mental Health Issues in Germany – The Role of Digital Health Tracking Applications.
        The COVID-19 pandemic brought unexpected and unprecedented challenges for the world and the healthcare sector of the world was at major risk in this regard. The strain that was there on the healthcare sector was undeniable and the patient load in even the developed part of the world was overwhelming. Hence, an important role was played by digital health providing services that enabled the patients to avail healthcare services at their doorstep. As per the WHO, the harnessing of health innovation and digital technologies can help in the acceleration of the attainment of the [global health stability](https://www.who.int/health-topics/digital-health#tab=tab_1).  Digital health services applies to the digital transformation of the field of healthcare including medical health applications, electronic medical records and the [electronic health records](https://www.techtarget.com/searchhealthit/definition/digital-health-digital-healthcare). 
 
