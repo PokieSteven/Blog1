@@ -1,6 +1,6 @@
 
 
-Published date: _07<sup>th</sup> February 2023_
+Published date: _February 07, 2023_
 
 Written by: _Dhinakar Saravanan_
 
